@@ -1,0 +1,143 @@
+body,html{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+/* en tête de la page */
+header{
+  width: 100%;
+  height:600px;
+  color: white;
+  background-image: url("../img/payments-banner-graphic.png");
+}
+#icon{
+  width: 15%;
+  vertical-align: middle;
+}
+#logo{
+    display: inline-block;
+    font-size: 25px;
+    margin: 1% 1% 0 1%;
+}
+#login{
+  margin-left: 65%;
+}
+#text1{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 100px;
+}
+#text2,#headbutton{
+  font-size: 25px;
+  text-align: center;
+}
+#headbutton{
+  padding: 1px;
+  color: rgb(119, 119, 168);
+  margin: 0 33% 0 33%;
+  border-radius: 5px;
+  background-color: white;
+}
+/* Première section */
+section{
+  width: 100%;
+  height:600px;
+}
+.blocheight{
+  height: 50%;
+  color: rgb(149, 149, 149);
+}
+
+#imgcenter,#imgright,#imgleft{
+  width: 33%;
+  height: 30%;
+  margin-top: 50px;
+}
+.s1{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    border-left: 1px solid rgb(170, 170, 170);
+    }
+.title1{
+  font-size: 20px;
+}
+}
+#bloccenter{
+  border-left: 1px solid rgb(170, 170, 170);
+  border-right: 1px solid rgb(170, 170, 170);
+}
+#bloc1{
+  background-color: rgb(240, 240, 240);
+  border-top: 1px solid rgb(170, 170, 170);
+}
+#s2{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 25px;
+}
+#gras{
+  font-weight: bold;
+  color: black;
+}
+#text3{
+  font-size: 18px;
+}
+#bandeau{
+  text-align: center;
+  line-height: 75px;
+  font-size: 25px;
+  background-color: rgb(84, 84, 84);
+  height: 75px;
+  color: white;
+}
+
+table{
+  width: 100%;
+}
+td{
+  width: 50%;
+  height: 300px;
+}
+footer{
+    background-color: rgb(84, 84, 84);
+    width: 100%;
+    height: 500px
+}
+.bleu{
+  background-color: rgb(59, 190, 186);
+  text-align: center;
+  padding-top: 100px;
+}
+#violet{
+  background-color: rgb(129, 63, 237);
+  text-align: center;
+  padding-top: 100px;
+}
+.bloctext{
+  text-align: left;
+  padding-left: 75px;
+  padding-right: 75px;
+  color: rgb(102, 102, 102);
+}
+#s3{
+  border-top: 1px solid rgb(170, 170, 170);
+  height: 300px;
+  text-align: center;
+  font-size: 25px;
+}
+#marges3{
+  margin-top: 75px;
+}
+span{
+  font-weight: bold;
+  color: rgb(102, 102, 102);
+}
+#buttonbas{
+  padding: 1px;
+  color: rgb(119, 119, 168);
+  margin: 0 33% 0 33%;
+  border-radius: 5px;
+  background-color: rgb(22, 149, 107);
+  color: white;
+}
